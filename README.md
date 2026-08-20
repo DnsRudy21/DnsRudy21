@@ -1,12 +1,13 @@
-::: {align="center"}
-`<img src="./assets/vector-hero.svg" width="100%" alt="José Carlos Malacara Espinosa — Python Developer, Applied AI & Intelligent Automation"/>`{=html}
+<div align="center">
+<img src="./assets/vector-hero.svg" width="100%" alt="José Carlos Malacara Espinosa — Python Developer, Applied AI & Intelligent Automation"/>
 
-`<br/>`{=html}
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-José_Carlos_Malacara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josecarlosmalacara)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--8949--4325-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-8949-4325)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Carlos_Malacara-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/carlosmalacarae)
-:::
+
+</div>
 
 ## `> engineering_profile`
 
@@ -35,15 +36,18 @@ useful, measurable and deployable systems.
 
 ## Featured Engineering
 
-```{=html}
+``` 
 <table>
 ```
-```{=html}
+
+``` 
 <tr>
 ```
-```{=html}
+
+``` 
 <td width="50%" valign="top">
 ```
+
 ### 🔬 VECTOR UroSight
 
 **AI-assisted urinary sediment analysis**
@@ -55,12 +59,14 @@ sediment using modern object-detection workflows.
 
 **Focus:** Applied AI · Computer Vision · Scientific Software
 
-```{=html}
+``` 
 </td>
 ```
-```{=html}
+
+``` 
 <td width="50%" valign="top">
 ```
+
 ### ⚙️ Predictive Intelligence
 
 **AI for industrial maintenance**
@@ -72,18 +78,22 @@ from industrial and equipment data.
 
 **Focus:** Predictive Maintenance · Industry 4.0 · Analytics
 
-```{=html}
+``` 
 </td>
 ```
-```{=html}
+
+``` 
 </tr>
 ```
-```{=html}
+
+``` 
 <tr>
 ```
-```{=html}
+
+``` 
 <td width="50%" valign="top">
 ```
+
 ### 🧠 Intelligent Automation
 
 **Software that removes repetitive work**
@@ -95,12 +105,14 @@ operational needs, reliability and usability.
 
 **Focus:** Productivity · Engineering Tools · Process Automation
 
-```{=html}
+``` 
 </td>
 ```
-```{=html}
+
+``` 
 <td width="50%" valign="top">
 ```
+
 ### 📊 Industrial Intelligence
 
 **Data transformed into decisions**
@@ -112,13 +124,15 @@ communicating engineering information.
 
 **Focus:** Dashboards · Data Visualization · Smart Manufacturing
 
-```{=html}
+``` 
 </td>
 ```
-```{=html}
+
+``` 
 </tr>
 ```
-```{=html}
+
+``` 
 </table>
 ```
 
@@ -126,35 +140,35 @@ communicating engineering information.
 
 ## Technology Ecosystem
 
-::: {align="center"}
+<div align="center">
 ### Core
 
-`<img src="https://skillicons.dev/icons?i=python,mysql,git,github,linux&theme=dark" alt="Core technologies"/>`{=html}
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,linux&theme=dark" alt="Core technologies"/>
 
 ### AI · Data · Computer Vision
 
-`<img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn&theme=dark" alt="AI and computer vision technologies"/>`{=html}
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn&theme=dark" alt="AI and computer vision technologies"/>
 
-`<br/>`{=html}
+<br/>
 
 `NumPy` · `Pandas` · `YOLO` · `ONNX` · `Machine Learning` ·
 `Data Analysis`
 
 ### Applications & Engineering
 
-`<img src="https://skillicons.dev/icons?i=flask,vscode&theme=dark" alt="Application development tools"/>`{=html}
+<img src="https://skillicons.dev/icons?i=flask,vscode&theme=dark" alt="Application development tools"/>
 
-`<br/>`{=html}
+<br/>
 
 `Streamlit` · `Industrial Automation` · `Smart Manufacturing` ·
 `Applied Research`
-:::
 
+</div>
 ------------------------------------------------------------------------
 
 ## Engineering Focus
 
-::: {align="center"}
+<div align="center">
   -----------------------------------------------------------------------
          01                02                03                04
   ----------------- ----------------- ----------------- -----------------
@@ -162,24 +176,23 @@ communicating engineering information.
                         VISION**                           INDUSTRY**
 
      Intelligent    Machines that can   Software that      Data-driven
-  systems for real  interpret visual     eliminates      engineering and
-      problems            data         repetitive work    manufacturing
-  -----------------------------------------------------------------------
-:::
 
+## systems for real interpret visual eliminates engineering and problems data repetitive work manufacturing
+
+</div>
 ------------------------------------------------------------------------
 
 ## Development Activity
 
-::: {align="center"}
-`<img height="165em" src="https://github-readme-stats.vercel.app/api?username=DnsRudy21&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics"/>`{=html}
-`<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DnsRudy21&layout=compact&hide_border=true&theme=transparent" alt="Most used languages"/>`{=html}
+<div align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=DnsRudy21&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DnsRudy21&layout=compact&hide_border=true&theme=transparent" alt="Most used languages"/>
 
-`<br/>`{=html}`<br/>`{=html}
+<br/><br/>
 
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=DnsRudy21&theme=github-compact&hide_border=true&area=true" width="95%" alt="GitHub activity graph"/>`{=html}
-:::
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DnsRudy21&theme=github-compact&hide_border=true&area=true" width="95%" alt="GitHub activity graph"/>
 
+</div>
 ------------------------------------------------------------------------
 
 ## Beyond the Code
@@ -192,10 +205,11 @@ I believe the best technology is not the most complicated one. It is the
 one that **works, solves a meaningful problem and creates measurable
 impact**.
 
-::: {align="center"}
-`<br/>`{=html}
+<div align="center">
+<br/>
 
 ### `Never Stop Learning. Never Stop Building.`
 
-`<img src="./assets/vector-footer.svg" width="100%" alt="VECTOR — Engineering the Present. Building the Future."/>`{=html}
-:::
+<img src="./assets/vector-footer.svg" width="100%" alt="VECTOR — Engineering the Present. Building the Future."/>
+
+</div>
