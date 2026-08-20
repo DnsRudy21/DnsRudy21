@@ -1,182 +1,201 @@
-<div align="center">
+::: {align="center"}
+`<img src="./assets/vector-hero.svg" width="100%" alt="José Carlos Malacara Espinosa — Python Developer, Applied AI & Intelligent Automation"/>`{=html}
 
-# José Carlos Malacara Espinosa
-
-### Python Developer • Applied AI • Intelligent Automation • Technical Consulting
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&center=true&vCenter=true&width=900&lines=Building+Intelligent+Solutions+with+Python;Applied+Artificial+Intelligence;Computer+Vision+and+Automation;Engineering+with+Purpose" />
-
-<br>
-
-> ### "Technology should not only be intelligent, it should be useful."
-
-Building practical solutions through software, automation and applied artificial intelligence.
-
-<br>
+`<br/>`{=html}
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-José_Carlos_Malacara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josecarlosmalacara)
-
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--8949--4325-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-8949-4325)
-
 [![Kaggle](https://img.shields.io/badge/Kaggle-Carlos_Malacara-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/carlosmalacarae)
+:::
 
-</div>
+## `> engineering_profile`
 
----
+``` python
+class CarlosMalacara:
+    role = ["Python Developer", "Mechatronics Engineer", "Technical Consultant"]
 
-## About Me
+    focus = {
+        "AI": "Applied Artificial Intelligence",
+        "CV": "Computer Vision",
+        "Automation": "Intelligent Systems",
+        "Industry": "Smart Manufacturing",
+    }
 
-I am a Mechatronics Engineer, Python Developer and Technical Consultant from Mexico, passionate about building intelligent and practical solutions through technology.
+    also = ["Educator", "Researcher", "Technical Mentor"]
 
-My work lies at the intersection of:
-
-- Applied Artificial Intelligence
-- Software Development with Python
-- Intelligent Automation
-- Computer Vision
-- Data Analysis
-- Smart Manufacturing
-- Technical Consulting
-- Applied Research
-
-I believe great technology should not only work—it should solve meaningful problems and create measurable impact.
-
----
-
-## Who Am I?
-
-```python
-Jose_Carlos = {
-
-    "role":[
-        "Python Developer",
-        "Technical Consultant",
-        "Educator",
-        "Researcher"
-    ],
-
-    "working_on":[
-        "Applied Artificial Intelligence",
-        "Computer Vision",
-        "Machine Learning",
-        "Intelligent Manufacturing",
-        "Industrial Automation"
-    ],
-
-    "currently_learning":[
-        "Artificial Intelligence",
-        "Deep Learning",
-        "Computer Vision",
-        "Software Engineering",
-        "Anything that sparks curiosity"
-    ],
-
-    "mission":
-        "Building technology that solves real-world problems"
-
-}
+    mission = "Build technology that solves real-world problems."
 ```
 
----
+I build practical engineering solutions at the intersection of **Python,
+artificial intelligence, computer vision, automation and intelligent
+manufacturing**. My work focuses on turning technical problems into
+useful, measurable and deployable systems.
 
-## Current Projects
+------------------------------------------------------------------------
 
-- Artificial Intelligence for Urinary Sediment Analysis
-- Predictive Maintenance using Artificial Intelligence
-- Python Desktop Applications
-- Intelligent Automation Systems
-- Industrial Dashboards and Data Analysis
-- Applied Research in Intelligent Manufacturing
-- Engineering Education and Technical Mentoring
+## Featured Engineering
 
----
+```{=html}
+<table>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### 🔬 VECTOR UroSight
 
-## Technology Stack
+**AI-assisted urinary sediment analysis**
 
-### Programming
+Computer vision system for detecting and analyzing microscopic urinary
+sediment using modern object-detection workflows.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+`Python` `YOLO` `OpenCV` `PyTorch` `ONNX`
 
+**Focus:** Applied AI · Computer Vision · Scientific Software
 
-### Data Science & AI
+```{=html}
+</td>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### ⚙️ Predictive Intelligence
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+**AI for industrial maintenance**
 
+Machine-learning workflows focused on extracting actionable information
+from industrial and equipment data.
 
-### Computer Vision & Applications
+`Python` `Pandas` `Scikit-learn` `Data Analysis`
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+**Focus:** Predictive Maintenance · Industry 4.0 · Analytics
 
----
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### 🧠 Intelligent Automation
 
-## Beyond Software
+**Software that removes repetitive work**
 
-Technology is only one part of what I do.
+Python applications and automation tools designed around real
+operational needs, reliability and usability.
 
-I am also passionate about:
+`Python` `Automation` `Desktop Apps` `APIs`
 
-- Teaching Engineering
-- Technical Mentoring
-- Applied Research
-- Problem Solving
-- Intelligent Manufacturing
-- Continuous Learning
-- Building useful technology for people
+**Focus:** Productivity · Engineering Tools · Process Automation
 
----
+```{=html}
+</td>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### 📊 Industrial Intelligence
 
-## Engineering Mindset
+**Data transformed into decisions**
 
-I enjoy learning difficult things.
+Dashboards and analytical tools for monitoring, understanding and
+communicating engineering information.
 
-Whether it is software engineering, artificial intelligence, automation or research, I believe curiosity and discipline are among the most valuable tools an engineer can have.
+`Python` `Streamlit` `Flask` `Pandas`
 
-I am particularly interested in technologies capable of augmenting human capabilities and improving industrial and scientific processes through intelligent systems.
+**Focus:** Dashboards · Data Visualization · Smart Manufacturing
 
-> ### Never Stop Learning. Never Stop Building.
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</table>
+```
 
----
+------------------------------------------------------------------------
 
-## GitHub Statistics
+## Technology Ecosystem
 
-<div align="center">
+::: {align="center"}
+### Core
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=DnsRudy21&show_icons=true&hide_border=true&count_private=true"/>
+`<img src="https://skillicons.dev/icons?i=python,mysql,git,github,linux&theme=dark" alt="Core technologies"/>`{=html}
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DnsRudy21&layout=compact&hide_border=true"/>
+### AI · Data · Computer Vision
 
-</div>
+`<img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn&theme=dark" alt="AI and computer vision technologies"/>`{=html}
 
----
+`<br/>`{=html}
 
-## Let's Connect
+`NumPy` · `Pandas` · `YOLO` · `ONNX` · `Machine Learning` ·
+`Data Analysis`
 
-I am always interested in collaborating on projects involving:
+### Applications & Engineering
 
-- Python
-- Artificial Intelligence
-- Computer Vision
-- Intelligent Automation
-- Data Science
-- Smart Manufacturing
-- Applied Research
+`<img src="https://skillicons.dev/icons?i=flask,vscode&theme=dark" alt="Application development tools"/>`{=html}
 
+`<br/>`{=html}
 
-<div align="center">
+`Streamlit` · `Industrial Automation` · `Smart Manufacturing` ·
+`Applied Research`
+:::
 
-### Saltillo, Coahuila, México
+------------------------------------------------------------------------
 
-### Engineering the Present. Building the Future.
+## Engineering Focus
 
-</div>
+::: {align="center"}
+  -----------------------------------------------------------------------
+         01                02                03                04
+  ----------------- ----------------- ----------------- -----------------
+   **APPLIED AI**      **COMPUTER      **AUTOMATION**        **SMART
+                        VISION**                           INDUSTRY**
+
+     Intelligent    Machines that can   Software that      Data-driven
+  systems for real  interpret visual     eliminates      engineering and
+      problems            data         repetitive work    manufacturing
+  -----------------------------------------------------------------------
+:::
+
+------------------------------------------------------------------------
+
+## Development Activity
+
+::: {align="center"}
+`<img height="165em" src="https://github-readme-stats.vercel.app/api?username=DnsRudy21&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics"/>`{=html}
+`<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DnsRudy21&layout=compact&hide_border=true&theme=transparent" alt="Most used languages"/>`{=html}
+
+`<br/>`{=html}`<br/>`{=html}
+
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=DnsRudy21&theme=github-compact&hide_border=true&area=true" width="95%" alt="GitHub activity graph"/>`{=html}
+:::
+
+------------------------------------------------------------------------
+
+## Beyond the Code
+
+Engineering is more than a technology stack. I am also interested in
+**engineering education, technical mentoring, applied research, problem
+solving and continuous learning**.
+
+I believe the best technology is not the most complicated one. It is the
+one that **works, solves a meaningful problem and creates measurable
+impact**.
+
+::: {align="center"}
+`<br/>`{=html}
+
+### `Never Stop Learning. Never Stop Building.`
+
+`<img src="./assets/vector-footer.svg" width="100%" alt="VECTOR — Engineering the Present. Building the Future."/>`{=html}
+:::
