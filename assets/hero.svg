@@ -1,0 +1,23 @@
+<svg width="1200" height="390" viewBox="0 0 1200 390" xmlns="http://www.w3.org/2000/svg">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050b14"/><stop offset=".55" stop-color="#0b1424"/><stop offset="1" stop-color="#050b14"/></linearGradient>
+ <linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#2dd4bf"/><stop offset=".5" stop-color="#58a6ff"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="4" result="x"/><feMerge><feMergeNode in="x"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="390" rx="28" fill="url(#bg)"/>
+<g stroke="#58a6ff" opacity=".09">
+ <path d="M0 65H1200M0 130H1200M0 195H1200M0 260H1200M0 325H1200"/>
+ <path d="M100 0V390M200 0V390M300 0V390M400 0V390M500 0V390M600 0V390M700 0V390M800 0V390M900 0V390M1000 0V390M1100 0V390"/>
+</g>
+<g transform="translate(70 72)" fill="none" stroke="url(#a)" stroke-width="5" filter="url(#glow)">
+ <path d="M0 0L68 118L136 0"/><path d="M30 0L68 66L106 0" opacity=".55"/>
+ <circle cx="68" cy="59" r="82" stroke-width="1" opacity=".25"><animateTransform attributeName="transform" type="rotate" from="0 68 59" to="360 68 59" dur="12s" repeatCount="indefinite"/></circle>
+ <path d="M68 -23 A82 82 0 0 1 150 59" stroke-width="2"><animate attributeName="opacity" values=".15;1;.15" dur="2.6s" repeatCount="indefinite"/></path>
+</g>
+<text x="250" y="115" fill="#f0f6fc" font-family="Arial,Helvetica,sans-serif" font-size="39" font-weight="700" letter-spacing="1">JOSÉ CARLOS MALACARA ESPINOSA</text>
+<text x="252" y="160" fill="#8b949e" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="4">ENGINEER · DEVELOPER · CONSULTANT · EDUCATOR · RESEARCHER</text>
+<rect x="252" y="190" width="780" height="2" fill="url(#a)"><animate attributeName="width" values="80;780;80" dur="5s" repeatCount="indefinite"/></rect>
+<text x="252" y="245" fill="#c9d1d9" font-family="Arial,Helvetica,sans-serif" font-size="24">Engineering intelligence for the real world.</text>
+<text x="252" y="298" fill="#58a6ff" font-family="monospace" font-size="17">&gt; PYTHON / AI / AUTOMATION / ENGINEERING<tspan><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite">_</animate></tspan></text>
+<g fill="#2dd4bf"><circle cx="1080" cy="70" r="4"><animate attributeName="opacity" values=".2;1;.2" dur="1.8s" repeatCount="indefinite"/></circle><circle cx="1100" cy="70" r="4"><animate attributeName="opacity" values=".2;1;.2" dur="1.8s" begin=".3s" repeatCount="indefinite"/></circle><circle cx="1120" cy="70" r="4"><animate attributeName="opacity" values=".2;1;.2" dur="1.8s" begin=".6s" repeatCount="indefinite"/></circle></g>
+</svg>

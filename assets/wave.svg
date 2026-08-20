@@ -1,0 +1,5 @@
+<svg width="1200" height="45" viewBox="0 0 1200 45" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="g"><stop stop-color="#2dd4bf"/><stop offset=".5" stop-color="#58a6ff"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<path d="M0 23 C150 3 250 43 400 23 S650 3 800 23 S1050 43 1200 23" fill="none" stroke="url(#g)" stroke-width="2" opacity=".65">
+<animate attributeName="d" dur="5s" repeatCount="indefinite" values="M0 23 C150 3 250 43 400 23 S650 3 800 23 S1050 43 1200 23;M0 23 C150 43 250 3 400 23 S650 43 800 23 S1050 3 1200 23;M0 23 C150 3 250 43 400 23 S650 3 800 23 S1050 43 1200 23"/>
+</path></svg>

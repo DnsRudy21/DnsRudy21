@@ -1,0 +1,11 @@
+<svg width="1200" height="205" viewBox="0 0 1200 205" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="205" rx="22" fill="#0d1117" stroke="#30363d"/>
+<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+<g fill="#58a6ff" font-size="15" font-weight="700"><text x="115" y="55">APPLIED AI</text><text x="310" y="55">COMPUTER VISION</text><text x="505" y="55">AUTOMATION</text><text x="700" y="55">SMART INDUSTRY</text><text x="895" y="55">RESEARCH</text><text x="1085" y="55">EDUCATION</text></g>
+<g fill="none" stroke="#2dd4bf" stroke-width="2">
+<circle cx="115" cy="110" r="26"/><circle cx="310" cy="110" r="26"/><circle cx="505" cy="110" r="26"/><circle cx="700" cy="110" r="26"/><circle cx="895" cy="110" r="26"/><circle cx="1085" cy="110" r="26"/>
+<path d="M141 110H284M336 110H479M531 110H674M726 110H869M921 110H1059" stroke-dasharray="6 7"><animate attributeName="stroke-dashoffset" from="0" to="-26" dur="1.8s" repeatCount="indefinite"/></path>
+</g>
+<g fill="#f0f6fc" font-family="monospace" font-size="16"><text x="115" y="116">AI</text><text x="310" y="116">CV</text><text x="505" y="116">AUTO</text><text x="700" y="116">4.0</text><text x="895" y="116">R&amp;D</text><text x="1085" y="116">EDU</text></g>
+<text x="600" y="172" fill="#8b949e" font-size="14" letter-spacing="3">ONE ENGINEERING MINDSET · MULTIPLE DISCIPLINES</text>
+</g></svg>
