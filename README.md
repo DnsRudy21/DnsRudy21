@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="José Carlos Malacara Espinosa — Engineering Intelligence" />
+<img src="./assets/hero.svg" width="100%" alt="José Carlos Malacara Espinosa — Engineer, Developer, Consultant, Educator and Researcher" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&height=55&lines=Python+Developer+%E2%80%A2+Mechatronics+Engineer;Applied+AI+%E2%80%A2+Computer+Vision+%E2%80%A2+Automation;Technical+Consultant+%E2%80%A2+Educator+%E2%80%A2+Researcher;Always+learning.+Always+building." alt="Animated professional roles" />
 
@@ -16,27 +16,9 @@
 
 ## `01 // PROFILE`
 
-```python
-class JoseCarlosMalacara:
-    roles = [
-        "Python Developer",
-        "Mechatronics Engineer",
-        "Technical Consultant",
-        "Educator",
-        "Researcher",
-    ]
-
-    interests = [
-        "Applied Artificial Intelligence",
-        "Computer Vision",
-        "Intelligent Automation",
-        "Data Analysis",
-        "Smart Manufacturing",
-    ]
-
-    mindset = "Curiosity + engineering + useful technology"
-    mission = "Build intelligent solutions for real-world problems"
-```
+<div align="center">
+<img src="./assets/terminal.svg" width="100%" alt="Animated terminal profile for José Carlos Malacara" />
+</div>
 
 I work where **software meets engineering**. I enjoy turning difficult technical problems into practical systems through Python, artificial intelligence, automation and data.
 
@@ -53,9 +35,7 @@ My background in **Mechatronics** shapes the way I approach software: understand
 ## `02 // ENGINEERING DNA`
 
 <div align="center">
-
 <img src="./assets/dna.svg" width="100%" alt="Applied AI, Computer Vision, Automation, Smart Manufacturing, Research and Education" />
-
 </div>
 
 My interests are deliberately interdisciplinary. I am especially drawn to technologies that **augment human capabilities**, improve industrial or scientific processes, and turn information into better decisions.
@@ -80,9 +60,7 @@ My interests are deliberately interdisciplinary. I am especially drawn to techno
 ## `04 // CURRENT SIGNAL`
 
 <div align="center">
-
 <img src="./assets/signal.svg" width="100%" alt="Current professional focus" />
-
 </div>
 
 - 🔬 Exploring **Applied AI and Computer Vision**
@@ -92,21 +70,19 @@ My interests are deliberately interdisciplinary. I am especially drawn to techno
 
 <img src="./assets/wave.svg" width="100%" alt="" />
 
-## `05 // GITHUB SIGNAL`
+## `05 // GITHUB ACTIVITY`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DnsRudy21&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&bg_color=00000000" height="165" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=DnsRudy21&theme=github-dark-blue&hide_border=true&background=00000000" height="165" alt="GitHub streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DnsRudy21&theme=github-compact&hide_border=true&area=true&bg_color=00000000" width="96%" alt="GitHub contribution activity graph" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DnsRudy21&theme=github-compact&hide_border=true&area=true&bg_color=00000000" width="96%" alt="GitHub activity graph" />
+<img src="https://raw.githubusercontent.com/DnsRudy21/DnsRudy21/output/github-contribution-grid-snake-dark.svg" width="96%" alt="Animated GitHub contribution snake" />
 
 </div>
 
-> [!NOTE]
-> The repositories below are the project portfolio. This profile README is intentionally about the engineer behind them.
+<sub>Activity is shown here as a signal of consistency. The repositories below remain the place to explore the actual work.</sub>
 
 <img src="./assets/pulse-divider.svg" width="100%" alt="" />
 
@@ -120,6 +96,6 @@ I enjoy learning difficult things. Whether the problem lives in software, artifi
 
 ### `Never Stop Learning. Never Stop Building.`
 
-<img src="./assets/footer.svg" width="100%" alt="VECTOR — Engineering the Present. Building the Future." />
+<img src="./assets/footer.svg" width="100%" alt="Engineering the Present. Building the Future." />
 
 </div>

@@ -1,7 +1,8 @@
-<svg width="1200" height="160" viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="145" viewBox="0 0 1200 145" xmlns="http://www.w3.org/2000/svg">
 <defs><linearGradient id="g"><stop stop-color="#2dd4bf"/><stop offset=".5" stop-color="#58a6ff"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
-<rect width="1200" height="160" rx="24" fill="#050b14"/>
-<path d="M70 72H460M740 72H1130" stroke="url(#g)" opacity=".45"/>
-<g transform="translate(545 28)" fill="none" stroke="url(#g)" stroke-width="4"><path d="M0 0L55 86L110 0"/><path d="M24 0L55 49L86 0" opacity=".55"/></g>
-<text x="600" y="140" text-anchor="middle" fill="#8b949e" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="3">ENGINEERING THE PRESENT · BUILDING THE FUTURE</text>
+<rect width="1200" height="145" rx="22" fill="#050b14"/>
+<path d="M90 72H450M750 72H1110" stroke="url(#g)" opacity=".45"/>
+<circle cx="600" cy="72" r="28" fill="none" stroke="#58a6ff" opacity=".45"/>
+<circle cx="600" cy="72" r="7" fill="#2dd4bf"><animate attributeName="r" values="5;10;5" dur="2s" repeatCount="indefinite"/></circle>
+<text x="600" y="126" text-anchor="middle" fill="#8b949e" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="3">ENGINEERING THE PRESENT · BUILDING THE FUTURE</text>
 </svg>
