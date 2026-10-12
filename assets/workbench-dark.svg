@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="120" viewBox="0 0 360 120">
+<title>A little mechanical workbench</title>
+<style>
+ .arm { transform-origin:174px 87px; animation:reach 10s ease-in-out infinite; }
+ .pixel { animation:carry 10s ease-in-out infinite; }
+ .eye { animation:blink 10s linear infinite; transform-origin:163px 37px; }
+ @keyframes reach { 0%,15%,85%,100% {transform:rotate(-12deg)} 40%,60% {transform:rotate(12deg)} }
+ @keyframes carry { 0%,15%,85%,100% {transform:translate(0,0)} 40%,60% {transform:translate(38px,-15px)} }
+ @keyframes blink { 0%,68%,72%,100% {transform:scaleY(1)} 70% {transform:scaleY(.12)} }
+ @media (prefers-reduced-motion:reduce) { .arm,.pixel,.eye {animation:none} }
+</style>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+ <path d="M35 105H325" stroke="#405853" stroke-width="1.5"/>
+ <path d="M51 85V77H83V85M56 92H78" stroke="#a6bdb6" stroke-width="2"/>
+ <rect x="59" y="58" width="16" height="16" rx="3" stroke="#8ee3be" stroke-width="2"/>
+ <path d="M101 103V94H111V103" stroke="#405853" stroke-width="2"/>
+ <path d="M136 104V93Q136 87 142 87H194Q200 87 200 93V104" fill="#182b30" stroke="#a6bdb6" stroke-width="2"/>
+ <g class="arm">
+  <path d="M174 87L150 65L170 35" stroke="#8ee3be" stroke-width="7"/>
+  <path d="M174 87L150 65L170 35" stroke="#182b30" stroke-width="3"/>
+  <circle cx="150" cy="65" r="6" fill="#182b30" stroke="#8ee3be" stroke-width="2"/>
+  <circle cx="174" cy="87" r="7" fill="#182b30" stroke="#a6bdb6" stroke-width="2"/>
+  <rect x="153" y="25" width="38" height="24" rx="9" fill="#182b30" stroke="#a6bdb6" stroke-width="2"/>
+  <path d="M189 32H198V45H189" stroke="#8ee3be" stroke-width="2"/>
+  <path class="eye" d="M163 34V40" stroke="#8ee3be" stroke-width="3"/>
+ </g>
+ <path d="M244 85V77H281V85M248 92H277" stroke="#a6bdb6" stroke-width="2"/>
+ <g class="pixel"><rect x="209" y="40" width="13" height="13" rx="3" fill="#c77c43" stroke="#c77c43" stroke-width="1"/></g>
+ <rect x="250" y="59" width="10" height="10" rx="2" stroke="#8ee3be" stroke-width="2"/>
+ <rect x="266" y="59" width="10" height="10" rx="2" stroke="#8ee3be" stroke-width="2"/>
+ <path d="M304 51V59M300 55H308" stroke="#405853" stroke-width="1.5"/>
+</g>
+</svg>

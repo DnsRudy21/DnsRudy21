@@ -1,101 +1,69 @@
-<div align="center">
+# José Carlos Malacara Espinosa
 
-<img src="./assets/hero.svg" width="100%" alt="José Carlos Malacara Espinosa — Engineer, Developer, Consultant, Educator and Researcher" />
+**Python Developer | Technical Consultant**\
+Saltillo, Mexico
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&height=55&lines=Python+Developer+%E2%80%A2+Mechatronics+Engineer;Applied+AI+%E2%80%A2+Computer+Vision+%E2%80%A2+Automation;Technical+Consultant+%E2%80%A2+Educator+%E2%80%A2+Researcher;Always+learning.+Always+building." alt="Animated professional roles" />
+I work with Python, data, and computer vision. I like connecting software with something tangible: an image, a document, a machine, or a workflow.
 
-<br/>
+## Selected work
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-José_Carlos_Malacara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josecarlosmalacara)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--8949--4325-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-8949-4325)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Carlos_Malacara-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/carlosmalacarae)
+### 01 / VECTOR UroSight
 
-</div>
+A desktop application for exploring urinary sediment images, developed from my master’s capstone work. It brings together local YOLO inference, human review of detections, and PDF, CSV, and JSON exports. The central question is how to keep image analysis traceable and open to human correction.
 
-<img src="./assets/wave.svg" width="100%" alt="" />
+`Python` · `YOLO` · `PySide6` · `Computer vision`
 
-## `01 // PROFILE`
+**Status:** Experimental academic prototype with a runnable demonstration. Real inference requires separately obtained model weights. It has not been clinically validated and is not a diagnostic tool.
 
-<div align="center">
-<img src="./assets/terminal.svg" width="100%" alt="Animated terminal profile for José Carlos Malacara" />
-</div>
+[Explore the project](https://github.com/DnsRudy21/VECTOR_UroSight/blob/main/README.en.md) · [Inspect the inference code](https://github.com/DnsRudy21/VECTOR_UroSight/blob/main/src/inference/local_yolo_provider.py)
 
-I work where **software meets engineering**. I enjoy turning difficult technical problems into practical systems through Python, artificial intelligence, automation and data.
+### 02 / Vector PDF Suite
 
-My background in **Mechatronics** shapes the way I approach software: understand the system, model the problem, build deliberately, test relentlessly and keep improving.
+A local PDF workspace for batch conversion, merging, splitting, protection, and text extraction. It explores a practical concern: handling everyday document tasks without uploading files to another service. A Python API handles document operations, with React and Electron providing the desktop interface.
 
-<div align="center">
+`Python` · `FastAPI` · `PyMuPDF` · `React` · `Electron`
 
-### `Technology should not only be intelligent — it should be useful.`
+**Status:** Public application source with tests and desktop build scripts. The repository documents how to run and package it locally.
 
-</div>
+[Explore the project](https://github.com/DnsRudy21/vector-pdf-suite) · [Inspect the document engine](https://github.com/DnsRudy21/vector-pdf-suite/blob/main/backend/app/converter.py)
 
-<img src="./assets/pulse-divider.svg" width="100%" alt="" />
+### 03 / RobotSimulator
 
-## `02 // ENGINEERING DNA`
+An educational demo with a virtual six-axis robot, a teach pendant, and exercises in programming and fault recovery. The idea is to make the logic of a robotic cell visible through practice. A C# core shares robot state across desktop and spatial interaction modes, with projects saved as local files.
 
-<div align="center">
-<img src="./assets/dna.svg" width="100%" alt="Applied AI, Computer Vision, Automation, Smart Manufacturing, Research and Education" />
-</div>
+`C#` · `Godot .NET` · `OpenXR` · `Robotics`
 
-My interests are deliberately interdisciplinary. I am especially drawn to technologies that **augment human capabilities**, improve industrial or scientific processes, and turn information into better decisions.
+**Status:** Windows educational demo. Desktop and simulated spatial interaction are documented; the OpenXR headset path still needs hardware validation.
 
-<img src="./assets/wave.svg" width="100%" alt="" />
+[Explore the project](https://github.com/DnsRudy21/RobotSimulator/blob/main/README.en.md) · [Inspect the XR adapter](https://github.com/DnsRudy21/RobotSimulator/blob/main/godot/scripts/openxr_adapter.gd)
 
-## `03 // TECHNOLOGY`
+## The thread between these projects
 
-<div align="center">
+Different tools, similar questions: what is happening inside the system, what can a person inspect, and what happens when something goes wrong?
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,sklearn,mysql,git,github,linux,flask,vscode&theme=dark&perline=10" alt="Technology stack" />
+My background in mechatronics and clinical systems shapes that curiosity. I tend to start with the operation around the software: the people using it, the equipment involved, and the constraints that make the problem interesting.
 
-<br/><br/>
+I enjoy the space between understanding a system and building something with it. These repositories are part of that process, including their experiments, limitations, and unfinished questions.
 
-`Python` · `NumPy` · `Pandas` · `PyTorch` · `YOLO` · `OpenCV` · `Scikit-learn` · `ONNX`  
-`SQL` · `Git` · `Linux` · `Streamlit` · `Flask` · `Data Analysis` · `Machine Learning`
+## Tools I work with
 
-</div>
+| Purpose | Technologies |
+| --- | --- |
+| Build and automate | Python · SQL · REST APIs |
+| Analyze data | Pandas · Scikit-learn |
+| Explore vision and AI | PyTorch · OpenCV · YOLO |
+| Work with systems | PostgreSQL · SQL Server · Git · Linux · CI/CD |
 
-<img src="./assets/pulse-divider.svg" width="100%" alt="" />
+The mix changes with each project. Python is the common thread; robotics also takes me into C# and Godot.
 
-## `04 // CURRENT SIGNAL`
+## Around here
 
-<div align="center">
-<img src="./assets/signal.svg" width="100%" alt="Current professional focus" />
-</div>
+You can explore the code, read the project notes, or compare approaches. For a conversation about software, automation, or a shared technical question, you can find me on [LinkedIn](https://www.linkedin.com/in/josecarlosmalacara/).
 
-- 🔬 Exploring **Applied AI and Computer Vision**
-- 🏭 Connecting software with **engineering and intelligent manufacturing**
-- 🎓 Teaching, mentoring and learning through **engineering education**
-- 🧠 Interested in difficult problems, useful systems and anything that **sparks curiosity**
+<sub>Mechatronics habit: when something behaves strangely, check the assumptions before blaming the robot.</sub>
 
-<img src="./assets/wave.svg" width="100%" alt="" />
-
-## `05 // GITHUB ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DnsRudy21&theme=github-compact&hide_border=true&area=true&bg_color=00000000" width="96%" alt="GitHub contribution activity graph" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/DnsRudy21/DnsRudy21/output/github-contribution-grid-snake-dark.svg" width="96%" alt="Animated GitHub contribution snake" />
-
-</div>
-
-<sub>Activity is shown here as a signal of consistency. The repositories below remain the place to explore the actual work.</sub>
-
-<img src="./assets/pulse-divider.svg" width="100%" alt="" />
-
-## `06 // BEYOND SOFTWARE`
-
-Technology is only one part of what I do. I also care deeply about **engineering education, technical mentoring, applied research, problem solving and continuous learning**.
-
-I enjoy learning difficult things. Whether the problem lives in software, artificial intelligence, automation, manufacturing or research, I believe **curiosity and discipline are among the most valuable tools an engineer can have**.
-
-<div align="center">
-
-### `Never Stop Learning. Never Stop Building.`
-
-<img src="./assets/footer.svg" width="100%" alt="Engineering the Present. Building the Future." />
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/workbench-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/workbench-light.svg">
+  <img src="./assets/workbench-light.svg" width="240" alt="">
+</picture>
